@@ -12,5 +12,5 @@ Practical Usecase:
 5. Now, using CausalImpact you can measure 'attribution' done by new feature in A
 
 **Note:
-BSTS model uses spike and slab variable selection technique.
+BSTS model uses spike and slab Bayesian variable selection technique.
 https://en.wikipedia.org/wiki/Spike-and-slab_regression
