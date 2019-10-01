@@ -24,3 +24,5 @@ https://github.com/google/CausalImpact
 https://en.wikipedia.org/wiki/Spike-and-slab_regression
 https://blog.exploratory.io/an-introduction-to-causal-impact-analysis-a57bce54078e
 https://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/
+https://www.analytics-link.com/single-post/2017/11/03/Causal-Impact-Analysis-in-R-and-now-Python
+
