@@ -14,3 +14,6 @@ Practical Usecase:
 **Note:
 BSTS model uses spike and slab Bayesian variable selection technique.
 https://en.wikipedia.org/wiki/Spike-and-slab_regression
+https://blog.exploratory.io/an-introduction-to-causal-impact-analysis-a57bce54078e
+
+
