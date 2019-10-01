@@ -23,3 +23,4 @@ https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf
 https://github.com/google/CausalImpact
 https://en.wikipedia.org/wiki/Spike-and-slab_regression
 https://blog.exploratory.io/an-introduction-to-causal-impact-analysis-a57bce54078e
+https://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/
