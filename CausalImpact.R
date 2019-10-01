@@ -54,7 +54,12 @@ post.period <- c(71, 100) #post-intervention data
 impact <- CausalImpact(data, pre.period, post.period)
 
 #Plot impact object (model result)
-plot(impact)
+#plot(impact)
+impact.plot <- plot(impact) + 
+  ylab("% YoY Store Sales Difference for X City") + 
+  xlab("Day (showing Pre-Post Intervention Effect of X Marketing effort)") 
+plot(impact.plot)
+
 
 #Print numeric summary of model predictions
 summary(impact)
