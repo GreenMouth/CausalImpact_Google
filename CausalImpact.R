@@ -1,10 +1,4 @@
 
-#references: 
-#https://cran.r-project.org/web/packages/CausalImpact/vignettes/CausalImpact.html
-#https://cran.r-project.org/web/packages/CausalImpact/CausalImpact.pdf
-#https://www.youtube.com/watch?v=GTgZfCltMm8
-#https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf
-#https://github.com/google/CausalImpact
 
 #Package Name: CausalImpact
 #An R package for 'causal inference using Bayesian structural time-series' models
